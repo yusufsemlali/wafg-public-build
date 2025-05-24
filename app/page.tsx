@@ -72,7 +72,7 @@ export default function Home() {
         <section
           className="w-full py-12 md:py-24 lg:py-32 xl:py-48 bg-gradient-to-b from-background to-muted relative"
           style={{
-            backgroundImage: "url('/images/hero-background-small.png')",
+            backgroundImage: "url('/images/wafg-hero-background_wide.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
